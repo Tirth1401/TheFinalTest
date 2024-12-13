@@ -1,0 +1,19 @@
+Step#1
+
+git init
+
+git status
+
+git add MyFile.txt
+
+Step#2
+
+git status
+
+git add Info
+
+I added sub folder first inside the final test then i added two files name  infofile1 and infofile2
+
+Step#3
+
+git config user.name "TirthPatel_Info"
