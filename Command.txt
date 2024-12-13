@@ -17,3 +17,7 @@ I added sub folder first inside the final test then i added two files name  info
 Step#3
 
 git config user.name "TirthPatel_Info"
+
+
+
+I added some files, folder and make some chnages and mentioned all the changes in the command.txt
