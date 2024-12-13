@@ -1,4 +1,4 @@
-Step#1
+Step#3
 
 git init
 
@@ -6,7 +6,7 @@ git status
 
 git add MyFile.txt
 
-Step#2
+Step#4
 
 git status
 
@@ -14,10 +14,14 @@ git add Info
 
 I added sub folder first inside the final test then i added two files name  infofile1 and infofile2
 
-Step#3
+Step#5
 
 git config user.name "TirthPatel_Info"
 
 
 
-I added some files, folder and make some chnages and mentioned all the changes in the command.txt
+Step#6
+
+git status
+
+I added some files, folder and make some changes and mentioned all the changes in the command.txt and i learned how to add file to repository and how to commit and all.
